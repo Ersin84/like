@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Josefin Sans',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+
+  /* Button */
+  .btn-primary {
+    @apply px-5 py-2 rounded-full bg-indigo-600 text-white border border-indigo-600
+  }
+
+  .btn-secondary {
+    @apply px-5 py-2 bg-violet-400 text-white rounded-full
+  }
+
+  .btn-light {
+    @apply bg-slate-100 my-2 py-2 rounded
+  }
+
+  /* Button with hover effect */
+  .btn-primary:hover {
+    @apply bg-indigo-700
+  }
+
+  .btn-secondary:hover {
+    @apply bg-violet-500
+  }
+
+  /* Input */
+  .primary-input {
+    @apply border border-gray-300 px-5 py-2 outline-none rounded-xl text-gray-400
+  }
+
+  .primary-input:focus {
+    @apply ring-2 ring-blue-200
+  }
+}

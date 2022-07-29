@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "carName": "Kona Electric",
+    "seats": "4 Seats",
+    "gearbox": "Auto gearbox",
+    "price": "124",
+    "rating": "5",
+    "discount": "10",
+    "img": "/public/FakeData/imo/1fo.png"
+  },
+  {
+    "id": 2,
+    "carName": "Kona Electric",
+    "seats": "4 Seats",
+    "gearbox": "Auto gearbox",
+    "price": "382",
+    "rating": "5",
+    "discount": "",
+    "img": "/public/FakeData/imo/1fo1.png"
+  },
+  {
+    "id": 3,
+    "carName": "Kona Electric",
+    "seats": "4 Seats",
+    "gearbox": "Auto gearbox",
+    "price": "105",
+    "rating": "5",
+    "discount": "",
+    "img": "/public/FakeData/imo/1fo2.png"
+  },
+  {
+    "id": 4,
+    "carName": "Kona Electric",
+    "seats": "4 Seats",
+    "gearbox": "Auto gearbox",
+    "price": "266",
+    "rating": "5",
+    "discount": "",
+    "img": "/public/FakeData/imo/1fo3.png"
+  },
+  {
+    "id": 5,
+    "carName": "Kona Electric",
+    "seats": "4 Seats",
+    "gearbox": "Auto gearbox",
+    "price": "268",
+    "rating": "5",
+    "discount": "15",
+    "img": "/public/FakeData/imo/1fo4.png"
+  },
+  {
+    "id": 6,
+    "carName": "Kona Electric",
+    "seats": "4 Seats",
+    "gearbox": "Auto gearbox",
+    "price": "321",
+    "rating": "5",
+    "discount": "",
+    "img": "/public/FakeData/imo/1fo5.png"
+  },
+  {
+    "id": 7,
+    "carName": "Kona Electric",
+    "seats": "4 Seats",
+    "gearbox": "Auto gearbox",
+    "price": "127",
+    "rating": "5",
+    "discount": "",
+    "img": "/public/FakeData/imo/1fo6.png"
+  },
+  {
+    "id": 8,
+    "carName": "Kona Electric",
+    "seats": "4 Seats",
+    "gearbox": "Auto gearbox",
+    "price": "46",
+    "rating": "5",
+    "discount": "",
+    "img": "/public/FakeData/imo/1fo7.png"
+  },
+  {
+    "id": 9,
+    "carName": "Kona Electric",
+    "seats": "4 Seats",
+    "gearbox": "Auto gearbox",
+    "price": "200",
+    "rating": "5",
+    "discount": "",
+    "img": "/public/FakeData/imo/1fo8.png"
+  },
+  {
+    "id": 10,
+    "carName": "Kona Electric",
+    "seats": "4 Seats",
+    "gearbox": "Auto gearbox",
+    "price": "342",
+    "rating": "5",
+    "discount": "",
+    "img": "/public/FakeData/imo/1fo9.png"
+  },
+  {
+    "id": 11,
+    "carName": "Kona Electric",
+    "seats": "4 Seats",
+    "gearbox": "Auto gearbox",
+    "price": "122",
+    "rating": "5",
+    "discount": "5",
+    "img": "/public/FakeData/imo/1fo10.png"
+  },
+  {
+    "id": 12,
+    "carName": "Kona Electric",
+    "seats": "4 Seats",
+    "gearbox": "Auto gearbox",
+    "price": "144",
+    "rating": "5",
+    "discount": "",
+    "img": "/public/FakeData/imo/1fo11.png"
+  }
+]
