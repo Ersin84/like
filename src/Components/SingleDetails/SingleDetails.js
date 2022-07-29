@@ -30,7 +30,7 @@ const SingleDetails = () => {
           <div>
             <div>
               <img
-                src="/public/FakeData/imo/1fo13.png"
+                src="https://raw.githubusercontent.com/Ersin84/like/main/public/FakeData/imo/1fo13.png"
                 alt=""
               />
             </div>

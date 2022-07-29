@@ -16,7 +16,7 @@ const Banner = () => {
           <div>
             <img
               className="w-auto mt-5"
-              src="/public/FakeData/imo/1fo12.png"
+              src="https://raw.githubusercontent.com/Ersin84/like/main/public/FakeData/imo/1fo12.png"
               alt=""
             />
           </div>
