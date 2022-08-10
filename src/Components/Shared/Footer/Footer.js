@@ -17,25 +17,25 @@ const Footer = () => {
             <img className="w-28" src={Logo} alt="Logo" />
             <ul className="mt-7">
               <li className="my-5">
-                <Link to="#">
+                <Link to="https://www.facebook.com">
                   <FaFacebookSquare className="inline-block text-blue-600 text-2xl" />{" "}
                   <span className="ml-2">Facebook</span>
                 </Link>
               </li>
               <li className="my-5">
-                <Link to="#">
+                <Link to="https://www.twitter.com">
                   <FaTwitter className="inline-block text-sky-500 text-2xl" />{" "}
                   <span className="ml-2">Twitter</span>
                 </Link>
               </li>
               <li className="my-5">
-                <Link to="#">
+                <Link to="https://www.youtube.com">
                   <FaYoutube className="inline-block text-red-700 text-2xl" />{" "}
                   <span className="ml-2">Youtube</span>
                 </Link>
               </li>
               <li className="my-5">
-                <Link to="#">
+                <Link to="https://www.instagram.com">
                   <FaInstagram className="inline-block text-violet-700 text-2xl" />{" "}
                   <span className="ml-2">Instagram</span>
                 </Link>
@@ -45,11 +45,29 @@ const Footer = () => {
           <div>
             <h4>Explore</h4>
             <ul>
-              <li>
-                <Link to="#">Facebook</Link>
+            <li className="my-5">
+                <Link to="https://www.instagram.com">
+                  <FaInstagram className="inline-block text-violet-700 text-2xl" />{" "}
+                  <span className="ml-2">Instagram</span>
+                </Link>
               </li>
-              <li>
-                <Link to="#">Youtube</Link>
+              <li className="my-5">
+                <Link to="https://www.youtube.com">
+                  <FaYoutube className="inline-block text-red-700 text-2xl" />{" "}
+                  <span className="ml-2">Youtube</span>
+                </Link>
+              </li>
+              <li className="my-5">
+                <Link to="https://www.twitter.com">
+                  <FaTwitter className="inline-block text-sky-500 text-2xl" />{" "}
+                  <span className="ml-2">Twitter</span>
+                </Link>
+              </li>
+              <li className="my-5">
+                <Link to="https://www.facebook.com">
+                  <FaFacebookSquare className="inline-block text-blue-600 text-2xl" />{" "}
+                  <span className="ml-2">Facebook</span>
+                </Link>
               </li>
             </ul>
           </div>
